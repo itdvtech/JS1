@@ -1,0 +1,22 @@
+.img {
+    display: none;
+}
+
+.visible {
+    display: block;
+}
+
+.wrapper {
+    margin: 0 auto;
+    width: 500px;
+}
+
+button {
+    margin-left: 800px;
+    width: 50px;
+
+}
+
+button:last-child {
+    margin-left: 0;
+}
